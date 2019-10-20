@@ -48,7 +48,7 @@ a {
  * Contenedor
  ============================*/
 .pricing-wrapper {
-    width: 86%;
+    width: 88%;
     margin:auto;
     text-align:center;
 }
@@ -57,7 +57,7 @@ a {
     margin: 0 15px;
     margin-bottom:10px;
     text-align: center;
-    width: 360px;
+    width: 22%;
     float: left;
     -webkit-transition: all 0.25s ease;
     -o-transition: all 0.25s ease;
